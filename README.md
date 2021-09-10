@@ -3,6 +3,9 @@
 
 Overview of Analysis
 The purpose of this challenge is to analyze the rideshare data between January and May 2019.  Date compiled from suburban, urban, and rural areas will be analyzed to create visualizations of rideshare data for Pyber using plotting through Matplotlib.  The purpose is to provide services and determine where prices could be made more affordable to neighborhoods.  
+
+https://github.com/sljssims/PyBer_Analysis/issues/1#issue-992792127
+
 Results
  
 The summary of shows that the highest fares with lowest driver counts are in rural areas.  The summary also shows that urban areas have the lowest fares with the highest number of drivers available.  When reviewing the data for average fare per ride, average fare per driver, and total fares, the disparity between each city type is clear.  Urban cities have a higher demand for drivers than rural areas.  This observation could be attributed to living in more densely populated (urban, suburban,)  areas with more people.  In  urban areas the data shows that the average fare per ride is $24.53 and the average fare per driver is $16.57.  Compare that to the total rides for urban areas (1625) to total drivers (2504).  
