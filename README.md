@@ -19,6 +19,8 @@ Suburban areas seem to have a better balance on all variables.  Total drivers an
 
 Summary
 
+![image](https://user-images.githubusercontent.com/87907584/132782685-9b271cd2-3362-4f23-a1cb-38fb576df4df.png)
+
 1. Based upon the data provided for 2019 a recommendation to keep the total number of drivers to the total number rides close, making sure that there are  not more drivers than rides available for a particular city type.
 
 2. When reviewing the line graph, all city types seem to follow the same ebb and flow regarding increases and decrease in revenue per month.  However, a notable dip is seen for rural areas near the beginning of January to mid-January and mid-April  to early May.  The trend in rural areas is a decrease in revenue.  Suburban and Urban areas trend an increase during this same time.  Evaluating the reason for this observation could find more revenue from rural areas.
